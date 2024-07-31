@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: #ebce82;
+}
+
+h1{
+    color: #015d5d;
+}
+
+h2{
+    color: #015d5d;
+}
+
+h3{
+    color: #015d5d;
+}
+
+img{
+    position: relative;
+    
+    width: 250px;
+}
+
