@@ -17,6 +17,10 @@ h3{
     color: #015d5d;
 }
 
+p{
+    line-height: 200%;
+}
+
 img{
     position: relative;
     
@@ -28,6 +32,5 @@ img{
         margin-left: 5%;
         margin-right: 5%;
     }
-    
     
 }
